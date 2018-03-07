@@ -25,15 +25,15 @@ See [Coding Challenge - Super Simple Stocks][Coding Challenge - Super Simple Sto
 
 Contains all the main files
 
-    A. *dao:* Data Access Objects
+    A. dao: Data Access Objects
 
-    B. __domain:__ Classes to hold domain specifc business logic
+    B. domain: Classes to hold domain specifc business logic
 
-    C. __lang:__ Application specifc lang classes e.g. Exception classes
+    C. lang: Application specifc lang classes e.g. Exception classes
 
-    D. __model:__ Entities and other Data storage classes
+    D. model: Entities and other Data storage classes
 
-    E. __store:__ Local store to hold Stocks
+    E. store: Local store to hold Stocks
 
 2. **test**
 
