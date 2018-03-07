@@ -3,7 +3,7 @@ package com.stl.domain;
 import com.stl.model.Stock;
 
 /**
- * Factory to provide correct implmentation nased on stock type
+ * Factory to provide correct implmentation based on stock type
  *
  * @author Jasvinder Singh Saggu
  */
