@@ -43,6 +43,6 @@ Contains all the test cases. Junit 4 is used to write test cases. Follows same p
 
 Unless you are using an IDE, simply browse to the root folder and execute
 
-   _mvn test_
+     _mvn test_
 
 &copy; Saggu Technologies Limited (stl)
