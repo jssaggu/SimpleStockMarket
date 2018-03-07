@@ -25,7 +25,7 @@ See [Coding Challenge - Super Simple Stocks][Coding Challenge - Super Simple Sto
 
 Contains all the main files
 
-    A. __dao:__ Data Access Objects
+    A. *dao:* Data Access Objects
 
     B. __domain:__ Classes to hold domain specifc business logic
 
